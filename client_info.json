@@ -1,0 +1,18 @@
+{
+  "name": "Besiktas Kebab",
+  "category": "Kebab",
+  "address": "22 Quai de la Fosse, 44000 Nantes, France",
+  "phone": "",
+  "rating": 4.9,
+  "review_count": 2765,
+  "slug": "besiktas-kebab",
+  "public_site": "https://farisradir-blip.github.io/besiktas-kebab-site",
+  "pages": [
+    "index.html",
+    "menu.html",
+    "reservation.html",
+    "galerie.html",
+    "contact.html",
+    "admin.html"
+  ]
+}
